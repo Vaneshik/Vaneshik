@@ -1,7 +1,11 @@
 <h2 align="center">Hello, I'm Vaneshik</h2>
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Vaneshik.Vaneshik&color=b19cd9)
+
 <img align="left" src="214793437000202.gif">
+
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Vaneshik.Vaneshik&color=b19cd9)
+
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+
 - Nothing...
 
 

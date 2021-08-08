@@ -1,4 +1,12 @@
-![](214793437000202.gif) lol?
+<h2 align="center">Hello, I'm Vaneshik</h2>
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Vaneshik.Vaneshik&color=b19cd9)
+<img align="left" src="214793437000202.gif">
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- Nothing...
+
+
+
+
 <!--
 **Vaneshik/Vaneshik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

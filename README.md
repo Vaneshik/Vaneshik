@@ -1,27 +1,3 @@
-<h2 align="center">Hello, I'm Vaneshik</h2>
+[![wakatime](https://wakatime.com/badge/user/b54a6fd6-38c2-4b10-af73-49f5feb48525.svg)](https://wakatime.com/@b54a6fd6-38c2-4b10-af73-49f5feb48525)
 
-<img align="left" src="214793437000202.gif">
-
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Vaneshik.Vaneshik&color=b19cd9)
-
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-
-- 𝙽𝚘𝚝𝚑𝚒𝚗𝚐...
-
-
-
-
-<!--
-**Vaneshik/Vaneshik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Metrics](https://metrics.lecoq.io/Vaneshik?template=classic&base.metadata=0&isocalendar=1&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&config.timezone=Asia%2FVladivostok)

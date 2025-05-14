@@ -1,9 +1,8 @@
 ### 👋 Hi, I'm Vaneshik
 - 🎓 ITMO University — System and Applied Software (BSc, 2nd year)
 - 🧠 Tech Stack: Go | Python | Java (Spring/Jakarta) | FastAPI | Django
-- 🔐 InfoSec: Cryptography | Forensics | Reverse Engineering & PWN | Web Vulnerabilities | OWASP Top-10
+- 🔐 InfoSec: Forensics | Web Vulnerabilities | Reverse Engineering & PWN
 - 🐋 DevOps Tools: Docker | Ansible | Git | Linux | CI/CD | Networking
-- ⚔️ CTF Captain — ThereIsNoInfoRoma team
 - 🏆 Prizewinner at Al Challenge 2023, YetiCTF 2023, Regional Olympiad - in Informatics (10th grade)
 - 💾 Passionate about low-level systems: x86/ARM | Linux Internals | Assembly | OS Development
 

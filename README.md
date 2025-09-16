@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Vaneshik
-- 🎓 ITMO University — System and Applied Software (BSc, 2nd year)
-- 🧠 Tech Stack: Go | Python | Java (Spring/Jakarta) | FastAPI | Django
+- 🎓 ITMO University — System and Applied Software (BSc, 3nd year)
+- 🧠 Tech Stack: Go | Python | Java (Spring/Jakarta)
 - 🔐 InfoSec: Forensics | Web Vulnerabilities | Reverse Engineering & PWN
-- 🐋 DevOps Tools: Docker | Ansible | Git | Linux | CI/CD | Networking
+- 🐋 DevOps Tools: Docker | Ansible | CI/CD | Networking
 - 🏆 Prizewinner at Al Challenge 2023, YetiCTF 2023
 - 💾 Passionate about low-level: x86-64 | Linux Internals | Assembly | OS Development
 
